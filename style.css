@@ -22,7 +22,8 @@ ul{
 }
 
 .container {
-    border: 2px dotted;
+    border-width: 2px;
+    border-style: dotted;
     width: 200px;
     height: 200px;
 }
