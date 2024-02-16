@@ -13,16 +13,13 @@ p {
     background-color: lavender;
 }
 
-ol{
-    li {
+ol.a {
     list-style-type: lower-alpha;
-    }
+
 }
 
-ul{
-    li {
+ul.b {
     list-style-type: square;
-    }
 }
 
 .container {
