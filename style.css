@@ -14,11 +14,15 @@ p {
 }
 
 ol{
+    li {
     list-style-type: lower-alpha;
+    }
 }
 
 ul{
+    li {
     list-style-type: square;
+    }
 }
 
 .container {
